@@ -1,0 +1,23 @@
+{
+  "Records": [
+    {
+      "messageId": "14e2367c-f06e-4024-a525-8cd06bf8bc6f",
+      "receiptHandle": "AQEBzcTMjQlGMp2XaemPg0jhc99h8ngM1Z1stR64FDdZ7Ks9FHK+iXtyIf1TQBPqjfQQNgilqtnXWqvQxyBSM3vTIO7/qfqgkQtAXf4zMmxNUPPf5r9ZTapKxzvnBWCWVaBgToK3N0W1MPcMuMgHlamGi1ODVvzAn6fDht8+Ya9riV6xxqgOavcxTAf7PQCf3n98IipfXRTK4ZLozxZFmtEYwaIU7gjGQoiNRM6d1KNm5GPVK8hhwagZk00LyIF7ewZLZ7EoGllnY1tY7oHkkbngh3QSCDBvh4aTKsTTL23EDgNNafh9luFQMjlU7DI5p4c8",
+      "body": "string",
+      "attributes": {
+        "ApproximateReceiveCount": "60",
+        "SentTimestamp": "1640286363264",
+        "SequenceNumber": "18866657382705135872",
+        "MessageGroupId": "string",
+        "SenderId": "AIDA2VIFUKFLZUHZHLIAH",
+        "MessageDeduplicationId": "473287f8298dba7163a897908958f7c0eae733e25d2e027992ea2edc9bed2fa8",
+        "ApproximateFirstReceiveTimestamp": "1640286363264"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "b45cffe084dd3d20d928bee85e7b0f21",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:eu-west-1:732840612183:mabat20-prod-toconsume.fifo",
+      "awsRegion": "eu-west-1"
+    }
+  ]
+}
